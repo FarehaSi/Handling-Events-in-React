@@ -13,4 +13,4 @@ export class EventsClass extends Component {
     }
 }
 
-export default EventsClass
+export default EventsClass 
